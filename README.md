@@ -1,0 +1,2 @@
+# ServerReady
+ElCastilloRP
